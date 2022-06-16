@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Eslam10497
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning full stack web development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through eslam.wael104@gmail.com
+- 💞️ I’m looking to work as a full stack developer.
+- 📫You can reach me through eslam.wael104@gmail.com
 
 <!---
 Eslam10497/Eslam10497 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
