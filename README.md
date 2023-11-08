@@ -2,7 +2,7 @@
 
 ## A full-stack web developer
 
-- I love bulding cool websites that are both usefull and fun 
+- I love building cool websites that are both usefull and fun 
 
 # Languages and tools
 
